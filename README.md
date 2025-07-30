@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Nasir-Chandio an Electrical engineering student
-- 👀 I’m interested in learning coding designing circuit in simulation and developing wardware of embedded system
-- 🌱 I’m currently learning in namal university 
+- 👋 Hi, I’m @Nasir-Chandio an Electrical engineer
+- 👀 I’m interested in learning coding like Verilog , VHDL and Syatem Verilog, FPGA designing & simulation and developing hardware of embedded system
+- 🌱 I’m currently I am in NED universirt Karachi trarning IC design Cousre from the professionals 
 - 💞️ I’m looking to collaborate with the professionals in my field 
-- 📫 How to reach me nasir7065@gmail.com  linkedin https://www.linkedin.com/in/nasir-abbas-692713250/
+- 📫 How to reach me goluahmed7065@gmai.com  linkedin https://www.linkedin.com/in/nasir-abbas-692713250/
 - 😄 Pronouns: 
 - ⚡ Fun fact: 
 
